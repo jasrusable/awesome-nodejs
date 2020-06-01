@@ -668,6 +668,7 @@
 ### Job queues
 
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
+- [Conveyor MQ](https://github.com/conveyor-mq/conveyor-mq) - Fast and efficient distributed job/task queue.
 - [agenda](https://github.com/rschmukler/agenda) - MongoDB-backed job scheduling.
 - [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 - [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
